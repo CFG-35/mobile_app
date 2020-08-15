@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1034851906287",
+    "firebase_url": "https://keyeducationmock.firebaseio.com",
+    "project_id": "keyeducationmock",
+    "storage_bucket": "keyeducationmock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034851906287:android:b65ba76847b48abbf8e11a",
+        "android_client_info": {
+          "package_name": "shivaguntoji.key_eductation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034851906287-p0u7c7irn0oq50c53tr6rlulrfj6tbvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEhl_4PED__njbpacoUM4qMC6qub3y1Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034851906287-p0u7c7irn0oq50c53tr6rlulrfj6tbvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
